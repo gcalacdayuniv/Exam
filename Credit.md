@@ -1,7 +1,4 @@
 # MIDTERM EXAMINATION: CREDIT AND COLLECTION
-**Level:** Master's Degree  
-**Course:** Financial Management (Finman 6)  
-
 ---
 
 ## PART 1: MULTIPLE CHOICE QUESTIONS (25 Points)
@@ -278,54 +275,7 @@ Statement 2: Simple discount is calculated based on the future maturity value of
 | | **W.** Personal Loan Credit |
 | | **X.** Public Credit |
 | | **Y.** Rehabilitation Finance Corporation |
-| | **Z.** Truth in Lending Act (R.A. 3765) |
-| | **AA.** Approximate Time |
 
-*(Note: Column B contains A through AA, which is 27 items. Since the prompt requested 25 options for 20 premises, I will trim it to exactly 25 options. Letters A through Y are 25 options. I will adjust the list to end at Y by combining/removing distractors.)*
-
-*Adjusted Column B (Exactly 25 options, A to Y):*
-A. Agricultural Time Loan
-B. Approximate Time
-C. Capital
-D. Character
-E. Collateral
-F. Commodity Loan
-G. Compound Interest
-H. Crop Loan
-I. Direct Loan
-J. Discount Loan
-K. Exact Interest
-L. Export Letter of Credit
-M. Galleon Trade
-N. Investment Credit
-O. Legal Obligation
-P. Managed Currency System
-Q. Maturity Date
-R. Moral Hazard (Dole-out Mentality)
-S. Open Account
-T. Ordinary Interest
-U. Personal Loan Credit
-V. Public Credit
-W. Rehabilitation Finance Corporation
-X. Service Credit
-Y. Truth in Lending Act (R.A. 3765)
-
----
-
-## PART 4: PROBLEM SOLVING (35 Points)
-**Instructions:** Analyze the two financial mathematics word problems below. Each problem requires you to calculate two distinct scenarios based on the provided principal/base amount, dates, and rates. Show your step-by-step computations arriving at the final amounts. 
-
-**Problem 1 (15 Points)**
-Zenith Holdings is executing a financial contract involving a base principal amount of **PHP 8,500,000**. The investment date is set for **March 1, 2022**, and the maturity date is **March 1, 2025**. Compute the following two distinct scenarios based on this data:
-**A)** If this principal amount is invested at an interest rate of **4% compounded quarterly**, calculate the final total compound amount Zenith Holdings will receive on the maturity date.
-**B)** Alternatively, if Zenith Holdings issues a promissory note with a future maturity value equal to the base amount (PHP 8,500,000) subject to a simple discount rate of **5% per year** over the exact same duration, calculate the simple discount deducted and the net proceeds (present value) received on the investment date.
-
-**Problem 2 (20 Points)**
-Meridian Enterprises needs to heavily finance a new factory. They are evaluating a financial instrument with a base principal amount of **PHP 24,000,000**. The investment date is **November 15, 2020**, and the maturity date is **November 15, 2024**.
-**A)** If this principal amount is loaned to them at an interest rate of **9% compounded monthly**, calculate the total maturity value (compound amount) they must repay at the end of the term.
-**B)** Alternatively, if Meridian signs a discount note with a future maturity value of PHP 24,000,000 at a simple discount rate of **8% per year** over the exact same period, calculate the total discount deducted by the bank and the actual net proceeds Meridian will receive on day one.
-
----
 ---
 
 ## ANSWER KEY & RATIONALES
@@ -380,90 +330,24 @@ Meridian Enterprises needs to heavily finance a new factory. They are evaluating
 45. **C** - Both statements are correct.
 
 ### Part 3: Matching Type
-46. **U** (Personal Loan Credit)
-47. **S** (Open Account)
+46. **W** (Personal Loan Credit)
+47. **U** (Open Account)
 48. **A** (Agricultural Time Loan)
-49. **O** (Legal Obligation)
+49. **Q** (Legal Obligation)
 50. **C** (Capital)
-51. **Y** (Truth in Lending Act)
-52. **J** (Discount Loan)
-53. **K** (Exact Interest)
-54. **B** (Approximate Time)
-55. **V** (Public Credit)
-56. **H** (Crop Loan)
+51. Truth in lending act
+52. **K** (Discount Loan)
+53. **M** (Exact Interest)
+54. Approximate time
+55. **X** (Public Credit)
+56. **I** (Crop Loan)
 57. **F** (Commodity Loan)
 58. **G** (Compound Interest)
-59. **I** (Direct Loan)
-60. **P** (Managed Currency System)
-61. **W** (Rehabilitation Finance Corporation)
-62. **R** (Moral Hazard / Dole-out Mentality)
-63. **M** (Galleon Trade)
-64. **L** (Export Letter of Credit)
+59. **J** (Direct Loan)
+60. **R** (Managed Currency System)
+61. **Y** (Rehabilitation Finance Corporation)
+62. **T** (Moral Hazard / Dole-out Mentality)
+63. **O** (Galleon Trade)
+64. **N** (Export Letter of Credit)
 65. **E** (Collateral)
-
-### Part 4: Problem Solving Step-by-Step
-
-**Problem 1**
-**Given Data:**
-*   Base Amount = PHP 8,500,000
-*   Investment Date = March 1, 2022
-*   Maturity Date = March 1, 2025
-*   Time ($t$) = Exactly 3 years
-
-**A) Compound Interest Calculation:**
-*   Principal ($P$) = 8,500,000
-*   Nominal Rate ($j$) = 4% or 0.04
-*   Compounding frequency ($m$) = 4 (Quarterly)
-*   Interest per period ($i$) = $j / m$ = 0.04 / 4 = 0.01
-*   Total periods ($n$) = $m \times t$ = 4 \times 3 = 12 periods
-*   Formula: $F = P(1 + i)^n$
-*   Step 1: $F = 8,500,000 \times (1 + 0.01)^{12}$
-*   Step 2: $F = 8,500,000 \times (1.01)^{12}$
-*   Step 3: $F = 8,500,000 \times 1.12682503$
-*   **Final Compound Amount ($F$) = PHP 9,578,012.76**
-
-**B) Simple Discount Calculation:**
-*   Future Maturity Value ($F$) = 8,500,000
-*   Discount Rate ($r$) = 5% or 0.05
-*   Time in years ($t$) = 3
-*   Discount Formula: $D = Frt$
-*   Step 1: $D = 8,500,000 \times 0.05 \times 3$
-*   **Simple Discount ($D$) = PHP 1,275,000**
-*   Proceeds Formula: $P = F - D$
-*   Step 2: $P = 8,500,000 - 1,275,000$
-*   **Net Proceeds (Present Value) = PHP 7,225,000**
-
----
-
-**Problem 2**
-**Given Data:**
-*   Base Amount = PHP 24,000,000
-*   Investment Date = November 15, 2020
-*   Maturity Date = November 15, 2024
-*   Time ($t$) = Exactly 4 years
-
-**A) Compound Interest Calculation:**
-*   Principal ($P$) = 24,000,000
-*   Nominal Rate ($j$) = 9% or 0.09
-*   Compounding frequency ($m$) = 12 (Monthly)
-*   Interest per period ($i$) = $j / m$ = 0.09 / 12 = 0.0075
-*   Total periods ($n$) = $m \times t$ = 12 \times 4 = 48 periods
-*   Formula: $F = P(1 + i)^n$
-*   Step 1: $F = 24,000,000 \times (1 + 0.0075)^{48}$
-*   Step 2: $F = 24,000,000 \times (1.0075)^{48}$
-*   Step 3: $F = 24,000,000 \times 1.43140533$
-*   **Final Compound Amount ($F$) = PHP 34,353,728.00**
-
-**B) Simple Discount Calculation:**
-*   Future Maturity Value ($F$) = 24,000,000
-*   Discount Rate ($r$) = 8% or 0.08
-*   Time in years ($t$) = 4
-*   Discount Formula: $D = Frt$
-*   Step 1: $D = 24,000,000 \times 0.08 \times 4$
-*   **Simple Discount ($D$) = PHP 7,680,000**
-*   Proceeds Formula: $P = F - D$
-*   Step 2: $P = 24,000,000 - 7,680,000$
-*   **Net Proceeds (Present Value) = PHP 16,320,000**
-```eof
-
-I have successfully generated the comprehensive midterm examination based strictly on your source materials. The document perfectly maps out the requested 4-part structure, ensures no duplicated concepts, rigorously balances the lengths of the multiple-choice items, and strictly hits whole-number compounding periods in the financial math problems. Best of luck administering this exam! Let me know if you need any adjustments.
+```
