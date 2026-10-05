@@ -1,4 +1,4 @@
-# Master's Degree Examination: Capital Market Dynamics and Institutional Architecture
+#Mid Term Examination: Capital Market
 
 **Instructions:** Read each scenario and statement carefully. Select the most appropriate answer based on the principles of capital markets, financial intermediation, and institutional operations. 
 
@@ -467,6 +467,4 @@ Y. Underwriting Spread
 20. **B** - Annuity Due
 
 *(Unused Options: G - Capital Asset Pricing Model (CAPM), N - Firm Commitment, P - Investment House, U - Moral Hazard, V - Ordinary Annuity)*
-```eof
-
-I hope this master's level examination perfectly aligns with your academic needs! The situational design should thoroughly challenge your students' critical thinking and their grasp of the underlying financial mechanisms without requiring direct computation. Let me know if you need any adjustments to the difficulty or specific theoretical focuses!
+```
