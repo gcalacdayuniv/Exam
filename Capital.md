@@ -1,4 +1,4 @@
-#Mid Term Examination: Capital Market
+# Mid Term Examination: Capital Market
 
 **Instructions:** Read each scenario and statement carefully. Select the most appropriate answer based on the principles of capital markets, financial intermediation, and institutional operations. 
 
