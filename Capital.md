@@ -467,4 +467,3 @@ Y. Underwriting Spread
 20. **B** - Annuity Due
 
 *(Unused Options: G - Capital Asset Pricing Model (CAPM), N - Firm Commitment, P - Investment House, U - Moral Hazard, V - Ordinary Annuity)*
-```
